@@ -1,0 +1,19 @@
+{
+  "name": "Live Poker Trainer",
+  "short_name": "Live Poker",
+  "description": "Eight-max preflop poker range trainer",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0c0c0e",
+  "theme_color": "#0c0c0e",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "./Card-Trainer-Icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
